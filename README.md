@@ -6,9 +6,9 @@
 - 🎛️ Hardware and controllers 
 - 🧩 Automated systems
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vetorortogonal&langs_count=5&theme=radical)
+![Top Langs](https://github-readme-stats-beta-weld-69.vercel.app/api/top-langs/?username=vetorortogonal&langs_count=5&theme=radical)
 
-![Vetor GitHub stats](https://github-readme-stats.vercel.app/api?username=vetorortogonal&show_icons=true&theme=radical)
+![Vetor GitHub stats](https://github-readme-stats-beta-weld-69.vercel.app/api?username=vetorortogonal&show_icons=true&theme=radical)
 
 
 <!--
