@@ -1,4 +1,15 @@
-## Hi there 👋
+## 	🌟 Hey,  I'm Vetor
+
+🚀 Interests
+- 🤖 Local Artificial Intelligence
+- 🎮 Game development and 3D assets
+- 🎛️ Hardware and controllers 
+- 🧩 Automated systems
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vetorortogonal&langs_count=5&theme=radical)
+
+![Vetor GitHub stats](https://github-readme-stats.vercel.app/api?username=vetorortogonal&show_icons=true&theme=radical)
+
 
 <!--
 **VetorOrtogonal/vetorortogonal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
