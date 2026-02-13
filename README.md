@@ -1,14 +1,22 @@
 ## 	🌟 Hey,  I'm Vetor
 
-🚀 Interests
-- 🤖 Local Artificial Intelligence
-- 🎮 Game development and 3D assets
+<img alt="Top Programming Languages" align="left" width="50%" height="100em" src="https://github-readme-stats-beta-weld-69.vercel.app/api/top-langs/?username=vetorortogonal&layout=donut&langs_count=5&theme=radical"/>  
+
+<img alt="Vetor Gihub stats" align="left" width="50%" height="100em" src="https://github-readme-stats-beta-weld-69.vercel.app/api?username=vetorortogonal&show_icons=true&theme=radical"/>  
+
+
+----------
+
+
+### 🚀 Interests
 - 🎛️ Hardware and controllers 
 - 🧩 Automated systems
+- 🤖 Local Artificial Intelligence
+- 🎮 Game development and 3D assets
 
-![Top Langs](https://github-readme-stats-beta-weld-69.vercel.app/api/top-langs/?username=vetorortogonal&langs_count=5&theme=radical)
+<!-- ![Top Langs](https://github-readme-stats-beta-weld-69.vercel.app/api/top-langs/?username=vetorortogonal&langs_count=5&theme=radical)
 
-![Vetor GitHub stats](https://github-readme-stats-beta-weld-69.vercel.app/api?username=vetorortogonal&show_icons=true&theme=radical)
+![Vetor GitHub stats](https://github-readme-stats-beta-weld-69.vercel.app/api?username=vetorortogonal&show_icons=true&theme=radical) -->
 
 
 <!--
