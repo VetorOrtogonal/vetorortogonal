@@ -1,8 +1,8 @@
 ## 	🌟 Hey,  I'm Vetor
 
 <p align="center">
-  <img alt="Top Programming Languages" height="150em" src="https://github-readme-stats-beta-weld-69.vercel.app/api/top-langs/?username=vetorortogonal&layout=donut&langs_count=5&theme=radical"/>
-  <img alt="Vetor Gihub stats" height="150em" src="https://github-readme-stats-beta-weld-69.vercel.app/api?username=vetorortogonal&show_icons=true&theme=radical"/>
+  <img alt="Top Programming Languages" width="48%" height="150em" src="https://github-readme-stats-beta-weld-69.vercel.app/api/top-langs/?username=vetorortogonal&layout=donut&langs_count=5&theme=radical"/>
+  <img alt="Vetor Gihub stats" width="48%" height="150em" src="https://github-readme-stats-beta-weld-69.vercel.app/api?username=vetorortogonal&show_icons=true&theme=radical"/>
 </p>
 
 
